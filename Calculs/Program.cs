@@ -1,7 +1,7 @@
 ﻿/**
  * Application "Calculs" v01 (b5 a218)
- * author : Emds
- * date : 24/05/2020
+ * author : EZ
+ * date : 18/11/21
  */
 using System;
 
